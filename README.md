@@ -2,7 +2,7 @@
     <img src="./logo/genconf.png" width="200" height="200" />
 </p>
 <h2 align="center">genconf</h2>
-<p align="center">Genconf is a tool to generate code from configuration file.</p>
+<p align="center">Genconf is a tool to generate config code from configuration file.</p>
 
 
 ---
@@ -36,6 +36,8 @@
 <details>
 <summary>Usage</summary>
 
+### Steps
+
 1. Write your configuration with extend name we supported
     1. `json`: JSON file.
     2. `yaml`, `yml`: YAML file. :tada: **RECOMMAND**
@@ -44,4 +46,7 @@
     ```bash
     genconf
     ```
+
+### Examples
+
 </details>
