@@ -36,7 +36,7 @@
 <details>
 <summary>Usage</summary>
 
-### Steps
+### Steps:
 
 1. Write your configuration with extend name we supported
     1. `json`: JSON file.
@@ -47,6 +47,6 @@
     genconf
     ```
 
-### Examples
+### Examples:
 
 </details>
